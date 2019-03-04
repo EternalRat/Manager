@@ -1,0 +1,35 @@
+{
+  "name": "invitemanagerbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "array-sort": "^1.0.0",
+    "better-sqlite-pool": "^0.2.0",
+    "better-sqlite3": "^5.4.0",
+    "common-tags": "^1.8.0",
+    "discord.js": "^11.4.2",
+    "enmap": "^4.7.1",
+    "eris": "^0.9.0",
+    "gif-search": "^2.0.1",
+    "giphy-api": "^2.0.1",
+    "google": "^2.1.0",
+    "lodash.get": "^4.4.2",
+    "lodash.set": "^4.3.2",
+    "lodash.unset": "^4.5.2",
+    "node-fetch": "^2.3.0",
+    "node-gyp": "^3.8.0",
+    "nodemon": "^1.18.9",
+    "quick.db": "^7.0.0-b21",
+    "quick.hook": "^1.5.1",
+    "quick.log": "^1.2.1",
+    "quick.log-discord": "^1.1.0",
+    "request": "^2.88.0",
+    "table": "^5.2.2"
+  }
+}
